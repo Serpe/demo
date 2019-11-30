@@ -1,12 +1,9 @@
 {
 "cercacf": [
 {
-"id": 3,
-"title": "The Godfather: Part II",
-"year": "1974",
-"votes": 319352,
-"rating": "9.0",
-"rank": 3
+"codicefiscale": "01234567890",
+"denominazione": "Partecipata A",
+"found": true
 }
 ]
 }
